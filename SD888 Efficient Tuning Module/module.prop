@@ -1,0 +1,6 @@
+id=Rubbish_snapdragon888
+name=SD888 Efficient Tuner
+version=1.1
+versionCode=1
+author=SutoLiu (Translated by xda-lambstone)
+description=Underclocks the SD888/SD888+ resulting in better performance than SD870 whilst being more efficient than the SD870 at the same time. Underclocks X1 core from 2.84ghz to 2.49ghz, reduces performance by 13%, reduces power consumption by 32%. Underclocks A78 cores from 2.42ghz to 2.23ghz, reduces performance by 5%, reduces power consumption by 14%. Underclocks GPU from 840mhz to 608mhz, reduces performance by 27%, reduces power consumption by 54%.
