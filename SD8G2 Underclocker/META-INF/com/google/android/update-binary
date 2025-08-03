@@ -1,23 +1,23 @@
 #!/sbin/sh
 
 #################
-# 初始化
+# Initialization
 #################
 
 umask 022
 
-# 加载util_functions之前
+# Before loading util_functions
 ui_print() { echo "$1"; }
 
 require_new_magisk() {
   ui_print "*******************************"
-  ui_print " brach ma at very least Magisk v20.4+! "
+  ui_print "need at very least Magisk v20.4+! "
   ui_print "*******************************"
   exit 1
 }
 
 #########################
-# 本地 util_functions.sh
+# Local util_functions.sh
 #########################
 
 OUTFD=$2
